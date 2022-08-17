@@ -1,7 +1,6 @@
 ### 👋 Hello! Welcome to my Github profile.
 ### My name is Isaac jose and my nickname is "Isaac-ReDev"!
 
-𝑰heart 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
