@@ -1,16 +1,25 @@
-### Hi there 👋
+### 👋 Hello! Welcome to my Github profile.
+### My name is Isaac jose and my nickname is "Isaac-ReDev"!
 
-<!--
-**isaac-ReDev/isaac-ReDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝑰heart 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-Here are some ideas to get you started:
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  
+  <img src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" /> 
+
+<img src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" />
+
+<img src="https://camo.githubusercontent.com/a1309b252e82434062012a8073fa9fc1416a96289b7ca11555577b9fbe1cf03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541" />
+  
+</ul>
+
+<ul>
+  
+  <img src="https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666" /> 
+
+<img src="https://camo.githubusercontent.com/88a225aa02d9df9e5caf4f6b34f6e24848f7a4e47af50c920e4fb3ec1314f025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d2532333030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465" />
+
+</ul>
+
