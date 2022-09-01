@@ -2,7 +2,7 @@
 ### My name is Isaac jose and my nickname is "Isaac-ReDev"!
 
 
-### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 𝗠𝘆 𝗧𝗲ch 𝗦𝘁𝗮𝗰𝗸
 
 <ul>
   
